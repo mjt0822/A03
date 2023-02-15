@@ -11,6 +11,7 @@ Part 1
     How to install Webstorm:
       1)First, make sure you register for the Jetbrains student license
       2)Once you get that, download Webstorm from here:     https://www.jetbrains.com/student/
+      3)Follow Install Instrcutions from there
       
     How to install Git:
       1)Download from this website: https://git-scm.com/downloads
@@ -20,16 +21,16 @@ Part 1
     
     
    
-Part 2
-  Branch - 
-  Clone
-  Commit
-  Fetch
-  GIT
-  Github
-  Merge
-  Merge Conflict
-  Push
-  Pull
-  Remote
-  Repository
+Part 2(Glossary from Github.com)
+  Branch - a similaer verison of the repository, but doesn't have a live verison of the repository when making changes
+  Clone - local version of a repository. 
+  Commit - user's changes to the file or files
+  Fetch - command for git when changes are made to remote repository
+  GIT - program which keep track of changes in text files
+  Github - website where you can upload projects or files
+  Merge - combining changes from one repository to another
+  Merge Conflict - difference between branches. Mostly happens because of changes with files between users
+  Push - sending the changes to the remote repository
+  Pull - fetching and merging changes
+  Remote - repository that is on the server
+  Repository - github's version of a project folder
